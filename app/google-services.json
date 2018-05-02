@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "187906733049",
+    "firebase_url": "https://sound-recorder-pro-d3535.firebaseio.com",
+    "project_id": "sound-recorder-pro-d3535",
+    "storage_bucket": "sound-recorder-pro-d3535.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187906733049:android:d732456de1efdc21",
+        "android_client_info": {
+          "package_name": "com.techeia.soundrecorderpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187906733049-ln7age8lafcuo6j85a2boblc7euqu359.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2icQm2PDQSdEe73I3VUlUeUdHViKkrF0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
